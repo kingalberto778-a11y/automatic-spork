@@ -1,2 +1,1 @@
-# automatic-spork
-This website focuses more on finding great information about automatic spork
+This is information that shares information about educational lessons that people round the world can use for projects 
